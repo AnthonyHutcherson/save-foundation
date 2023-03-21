@@ -1,0 +1,214 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section background-color="#ffffff" padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text padding="0px" />
+      <mj-class name="light-purple" background-color="#E1CFF3" />
+      <mj-class name="med-purple" background-color="#B387E2" />
+      <mj-class name="dark-purple" background-color="#4E286B" />
+      <mj-class name="text-body" font-size="14px" padding-left="20px" line-height="17px" />
+      <mj-all font-family="Calibri,Helvetica,Arial,sans-serif" />
+    </mj-attributes>
+    <mj-style inline="inline">
+        .bold{
+            font-weight: bold;
+        }
+        .link{
+          color: #4e286b;
+          font-weight: bold;
+        }
+        .underline{
+            text-decoration: underline;
+        }
+        .med-purple-button{
+            background-color: #B387E2;
+            font-size: 18px;
+            color: #ffffff;
+            font-weight: bold;
+            text-decoration: none;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 15px;
+            padding-right: 15px;
+            border-radius: 10px;
+        }
+        .med-purple-button-wide{
+            background-color: #B387E2;
+            font-size: 18px !important;
+            color: #ffffff;
+            font-weight: bold;
+            text-decoration: none;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 15px;
+            padding-right: 15px;
+            border-radius: 10px;
+        }
+    </mj-style>
+    <mj-style>
+    @media only screen and (max-width: 479px){
+        .fundraiser{
+          padding: 0px !important;
+        }
+       }
+       @media only screen and (min-width: 375px) and (max-width: 444px){
+        .med-purple-button-wide{
+          font-size: 14px !important;
+        }
+       }
+        
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="body" background-color="#F3F3F4" width="600px">
+    <mj-section mj-class="light-purple">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/bBjKsbT/logo.png
+" width="200px" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="dark-purple" padding="15px">
+      <mj-column>
+        <mj-text align="center" font-weight="bold" color="#ffffff" mj-class="text-body">
+          Info on upcoming events, dates, or opportunities can go here.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px">
+        <mj-column>
+            <mj-image src="https://i.ibb.co/qy1mDpG/mary.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-text padding="0 0 20px 20px" color="#B387E2" font-weight="bold" font-size="24px" mj-class="light-purple">
+          I just want to be free. I want it to be over, even for just one day...
+        </mj-text>
+        <mj-text mj-class="text-body" align="left">
+          In the Lake Chad region of West Africa, the Boko Haram insurgency has taken a drastic toll on millions of families. Thousands of people leave home every day, putting their <span class="bold">lives in the hands of smugglers</span> in search of a better life.
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          At 17 years old, Mary did just that. She felt there <span class="bold">was no future</span> for her in her home of Benin City, Nigeria, so she sought opportunities elsewhere. She was put into contact with a man, Ben, who promised to pay her way to Italy and use his connections to find her a restaurant job.
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          Soon after meeting Ben, Mary was called to his house and <span class="bold">made to swear</span> that she wouldn’t try to run away. In March 2016, she, along with a group of boys and girls, left for Libya—a stop along their route to Europe.
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          In Libya, Mary found herself in peril. “Ben took two of us girls one night. He gave the other girl to another man, and he said to me <span class="bold">if I didn't sleep with him</span>, he would give me to another man and not bring me to Europe. <span class="bold">He raped me</span>,” Mary says.
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="30px" padding-bottom="10px" align="center">
+            <a href="https://www.paypal.com/donate/?cmd=_donations&business=thesavewomen@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+supporting+The+S%2EA%2EV%2eE%2E+Women%27s+Foundation&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&Z3JncnB0=" class="med-purple-button">Donate Now</a>
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          She wanted out but had no means of contacting anyone back home. “I had to stay there for months until they called me to go on the boat,” she says.
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          When she was finally put on a boat to Italy, Mary was informed she would be living in a camp and <span class="bold">work as a prostitute</span>—unjust conditions that she had never agreed to and couldn’t escape.
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          “I can't go stand on the side of the road in the name of money," she says, her voice rising. "I have a future. <span class="bold underline">Standing there, selling myself, would destroy my life. My dignity. Everything</span>.”
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          Now, the people who paid Mary’s way to Italy are <span class="bold">demanding money and threatening</span> her mother back in Nigeria. Her voice falters as she explains that, “they said they would do something very bad to her if I don't send money.”
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          She waits in anguish until her documents are processed. “I'm so sad. I'm under so much pressure. I don't know what to do… <span class="bold">I just want to be free. I want it to be over, even for just one day</span>.”
+        </mj-text>
+        <mj-text mj-class="text-body" padding-top="20px" align="left">
+          Despite the immense suffering she’s experienced as a victim of human trafficking, Mary’s dream of a better life holds strong. “<span class="bold">One day I will have my documents, I will have an education, I will have work</span>,” she says with hope. She wants to become a lawyer and serve those who’ve been trafficked like she has. “I want to give justice to the girls that have to use their bodies for work.”
+        </mj-text>
+         <mj-text mj-class="text-body" padding-top="30px" padding-bottom="10px" align="center">
+            <a href="https://www.paypal.com/donate/?cmd=_donations&business=thesavewomen@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+supporting+The+S%2EA%2EV%2eE%2E+Women%27s+Foundation&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&Z3JncnB0=" class="med-purple-button-wide">I want to help fight for Mary and others like her</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="dark-purple" padding="20px 40px">
+      <mj-column>
+        <mj-text mj-class="text-body" font-size="24px" align="center" color="#ffffff" line-height="30px" font-style="italic">
+          The S.A.V.E. Women’s Foundation envision a trauma-informed community where survivors and victims of domestic violence and sex trafficking are empowered to heal, thrive, and engage in a safe, healthy, and fulfilling life. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px">
+      <mj-column >
+        <mj-text mj-class="text-body" css-class="natasha" align="center" font-size="28px" font-weight="bold">
+          Dr. Natasha Rangel, Founder and President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="20px">
+        <mj-image src="https://i.ibb.co/RpNCLgX/natasha.jpg" alt="Dr. Natasha Rangel" />
+      </mj-column>
+      <mj-column padding="20px 20px 0 0">
+        <mj-text mj-class="text-body">
+          Dr. Natasha Rangel is a faithful servant leader, woman of action, and fearless warrior. At age 14, God revealed her gifts to <span class="bold">love and serve</span>. Natasha has been involved in community outreach for over 15 years.
+        </mj-text>
+        <mj-text mj-class="text-body" padding="20px">
+          Dr. Rangel’s philanthropic mission is SAVING others, by <span class="bold">escaping all forms of violence</span>, through courage, voice; self-love; enabling them to heal with purpose and hope for a fulfilling life. Her goal is to transform society’s response to domestic violence and sex trafficking through awareness, advocacy, and trauma-informed care.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="20px 20px 0 0">
+        <mj-text mj-class="text-body">
+          She believes that we, society, are responsible for creating a safe climate that supports and promotes healing for victims and survivors of domestic violence and sex trafficking.
+        </mj-text>
+        <mj-text mj-class="text-body" padding="20px">
+          Natasha believes it is important to empower women in their own healing, walk beside them, and leave judgement at the door. Dr. Rangel’s hope is to capture victim and survivor resiliency in how trauma is transformed into healing.
+        </mj-text>
+        <mj-text mj-class="text-body" >
+          Dr. Rangel possesses a B.A. Psychology, M.Ed. Organizational Behavior, and Ph.D. Organizational Leadership. She is praised for her faith, resiliency, strong work ethic, love for people, loyalty, and leadership excellence. Dr. Rangel is a change maker <a href="https://www.paypal.com/donate/?cmd=_donations&business=thesavewomen@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+supporting+The+S%2EA%2EV%2eE%2E+Women%27s+Foundation&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&Z3JncnB0=" class="link">stepping up to SAVE lives</a>.
+        </mj-text>
+      </mj-column>
+      <mj-column padding="20px 20px 0 0" css-class="fundraiser">
+        <mj-image  src="	https://i.ibb.co/JtC3b0f/fundraiser.jpg
+" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+         <mj-text mj-class="text-body" padding-top="30px" padding-bottom="10px" padding-left="0" align="center">
+            <a href="https://www.paypal.com/donate/?cmd=_donations&business=thesavewomen@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+supporting+The+S%2EA%2EV%2eE%2E+Women%27s+Foundation&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&Z3JncnB0=" class="med-purple-button-wide" >Help Us Fight Domestic Violence and Trafficking Today</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px 0px">
+      <mj-column>
+        <mj-divider border-width="4px" border-style="solid" border-color="#4E286B" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="light-purple" padding="20px">
+      <mj-column>
+        <mj-text font-size="24px" mj-class="text-body" align="center" font-weight="bold" padding-bottom="10px">
+          The S.A.V.E. Women's Foundation
+        </mj-text>
+        <mj-text mj-class="text-body" align="center">
+          13423 Blanco RdUnit #3078San Antonio, TX 78216
+        </mj-text>
+        <mj-text mj-class="text-body" align="center">
+          Need assistance?  Call <span class="bold">1-888-211-9902</span> OR Email: <a href="mailto:natasha@wesavewomen.org" class="link"> natasha@wesavewomen.org</a>
+        </mj-text>
+        <mj-text mj-class="text-body" align="center">
+          Connect with us on Facebook:
+        </mj-text>
+        <mj-image src="	https://i.ibb.co/S0rTwTL/facebook.png" align="center" width="35px" alt="" href="https://www.facebook.com/TheSAVEWomen/" />
+        <mj-image src="" alt="" />
+        <mj-image src="https://i.ibb.co/bBjKsbT/logo.png" width="200px" alt="" />
+        <mj-text mj-class="text-body" align="center">
+          Copyright © 2022 The S.A.V.E. Women’s Foundation, All rights reserved.
+          You are receiving this email because you opted in via our website.
+        </mj-text>
+        <mj-text mj-class="text-body" align="center">
+          Want to change how you receive these emails?
+          You can <a href="https://wesavewomen.us14.list-manage.com/profile?u=e7a2933aa36d0bdc26285de7f&id=5b7eb2f89c&e=7589ec9623&c=81f010e1d4" class="link">update your preferences</a> or <a href="https://wesavewomen.us14.list-manage.com/unsubscribe/post" class="link">unsubscribe from this list</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-divider border-width="4px" border-style="solid" border-color="#4E286B" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
